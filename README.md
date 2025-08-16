@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**0xatrilla/0xatrilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an iOS developer building with SwiftUI and UIKit!
 
-Here are some ideas to get you started:
+Follow me on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![image](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/acxtrila)
+
+[![image](https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white)](https://mastodon.social/@acxtrilla) 
+
+[![image](https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge)](https://bsky.app/profile/acxtrilla.xyz)
+
+[![image](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)](https://www.threads.com/@acxtrilla)
+
+
+
+[![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xatrilla&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
