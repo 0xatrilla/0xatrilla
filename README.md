@@ -14,6 +14,8 @@ Follow me on:
 
 [![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xatrilla&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xatrilla&layout=donut&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <a href="https://www.buymeacoffee.com/acxtrilla" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40" />
