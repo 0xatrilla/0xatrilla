@@ -1,6 +1,6 @@
-## Hi there 👋
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=30&pause=1000&color=BD93F9&multiline=true&width=435&lines=Hi+There%F0%9F%91%8B%F0%9F%8F%BB)](https://git.io/typing-svg)
 
-I'm an iOS developer building with SwiftUI and UIKit!
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&pause=1000&color=BD93F9&multiline=true&width=435&lines=I'm+Callum%2C+an+iOS+Dev+%F0%9F%93%B1)](https://git.io/typing-svg)
 
 Follow me on:
 
@@ -13,3 +13,4 @@ Follow me on:
 
 
 [![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xatrilla&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+
