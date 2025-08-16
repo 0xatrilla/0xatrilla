@@ -15,21 +15,7 @@ Follow me on:
 [![Callum's GitHub stats](https://github-readme-stats.vercel.app/api?username=0xatrilla&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 
-
-<br/>  
-
-<div align="left">
-            <a href="https://paypal.me/acxtrilla" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-PayPal-blue.svg?style=flat-square&logo=paypal" 
-                    align="left"
-                />
-            </a>
-            <a href="https://www.buymeacoffee.com/acxtrilla" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="left"
-                />
-            </a></div>
-<br />
+<a href="https://www.buymeacoffee.com/acxtrilla" target="_blank">
+  <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40" />
+</a>
 
