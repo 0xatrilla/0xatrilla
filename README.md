@@ -47,7 +47,7 @@
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xatrilla&layout=donut&theme=tokyonight" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xatrilla&layout=compact&theme=tokyonight" alt="Top Langs" />
   </a>
 
 </div>
