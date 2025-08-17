@@ -53,9 +53,15 @@
 </div>
 
 
-
+<div align="center">
 <a href="https://www.buymeacoffee.com/acxtrilla" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40" />
 </a>
+ </div>
  
-  [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/S6S71JSYII)
+<p align="center">
+  <a href="https://ko-fi.com/S6S71JSYII">
+    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" />
+  </a>
+</p>
+
