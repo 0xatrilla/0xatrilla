@@ -39,7 +39,7 @@
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=0xatrilla&show_icons=true&theme=tokyonight" alt="Callum's GitHub stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=0xatrilla&show_icons=true&theme=transparent" alt="Callum's GitHub stats" />
   </a>
 
 </div>
@@ -47,7 +47,7 @@
 <div align="center">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xatrilla&layout=compact&theme=tokyonight" alt="Top Langs" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xatrilla&layout=compact&theme=transparent" alt="Top Langs" />
   </a>
 
 </div>
