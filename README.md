@@ -11,7 +11,7 @@
 </p>
   
 
-<div align="center">
+<div align="left">
   <p>Follow me on:</p>
   
   <a href="https://x.com/acxtrila">
@@ -29,7 +29,7 @@
 
 </div>
 
-<div align="center">
+<div align="left">
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xatrilla&layout=compact&theme=discord_old_blurple" alt="Top Langs" />
@@ -38,13 +38,13 @@
 </div>
 
 
-<div align="center">
+<div align="left">
 <a href="https://www.buymeacoffee.com/acxtrilla" target="_blank">
   <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40" />
 </a>
  </div>
  
-<p align="center">
+<p align="left">
   <a href="https://ko-fi.com/S6S71JSYII">
     <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" />
   </a>
