@@ -57,7 +57,7 @@
   <summary>🚀 Projects</summary>
   <br/>
 
-  ### [Horizon](https://github.com/0xatrilla/LiquidSky)  
+  ### [Horizon]([https://github.com/0xatrilla/LiquidSky](https://github.com/0xatrilla/LiquidSky))  
   A Bluesky client for iOS  
   ![Stars](https://img.shields.io/github/stars/0xatrilla/LiquidSky?style=social)  
   ![Language](https://img.shields.io/github/languages/top/0xatrilla/LiquidSky?color=blue)  
