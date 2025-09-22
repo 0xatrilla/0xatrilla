@@ -23,9 +23,7 @@
   <br/><br/>
 
   ### Languages Across Repos
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xatrilla&theme=rose_pine" alt="Languages by repo" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xatrilla&theme=rose_pine" alt="Languages by commits" />
-  <br/><br/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xatrilla&layout=compact&theme=rose_pine)
 
   ### Contribution Graph
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xatrilla&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
