@@ -49,27 +49,7 @@
   </a>
 </details>
 
----
 
-<details>
-  <summary>🚀 Projects</summary>
-  <br/>
-
-  ### [Horizon]([https://github.com/0xatrilla/LiquidSky](https://github.com/0xatrilla/LiquidSky))  
-  A Bluesky client for iOS  
-  ![Stars](https://img.shields.io/github/stars/0xatrilla/LiquidSky?style=social)  
-  ![Language](https://img.shields.io/github/languages/top/0xatrilla/LiquidSky?color=blue)  
-  ![Last Commit](https://img.shields.io/github/last-commit/0xatrilla/LiquidSky?color=green)  
-
-  ---
-
-  ### [Repo Radar](https://github.com/0xatrilla/Repo-Radar)  
-  A macOS menu bar tool for tracking GitHub repo activity  
-  ![Stars](https://img.shields.io/github/stars/0xatrilla/Repo-Radar?style=social)  
-  ![Language](https://img.shields.io/github/languages/top/0xatrilla/Repo-Radar?color=blue)  
-  ![Last Commit](https://img.shields.io/github/last-commit/0xatrilla/Repo-Radar?color=green)  
-
-</details>
 
 ---
 
