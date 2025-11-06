@@ -1,4 +1,5 @@
-# Hi, I'm Callum 👋🏻  
+# Hi, I'm acxtrilla 👋🏻  
+<img width="600" height="750" alt="image" src="https://github.com/user-attachments/assets/f81664dc-a3e3-4c2b-a508-566ed0b71df8" />
 
 **📍 London | Developer**
 
@@ -37,15 +38,9 @@
   <br/>
   <a href="https://x.com/acxtrila">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
-  </a>
-  <a href="https://mastodon.social/@acxtrilla">
-    <img src="https://img.shields.io/badge/Mastodon-6364FF?style=for-the-badge&logo=Mastodon&logoColor=white" alt="Mastodon" />
-  </a>
+ 
   <a href="https://bsky.app/profile/acxtrilla.xyz">
     <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Bluesky" />
-  </a>
-  <a href="https://www.threads.com/@acxtrilla">
-    <img src="https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white" alt="Threads" />
   </a>
 </details>
 
