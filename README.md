@@ -1,61 +1,53 @@
-# Hi, I'm acxtrilla 👋🏻  
-<img width="600" height="750" alt="image" src="https://github.com/user-attachments/assets/f81664dc-a3e3-4c2b-a508-566ed0b71df8" />
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
+</div>
 
-**📍 London | Developer**
+###
 
-<p align="center">
-  
-![Swift](https://img.shields.io/badge/-Swift-FA7343?style=flat-square&logo=swift&logoColor=white) 
-![SwiftUI](https://img.shields.io/badge/-SwiftUI-0062D3?style=flat-square&logo=swift&logoColor=white) 
-![macOS](https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=apple&logoColor=white) 
-![Claude](https://img.shields.io/badge/-Claude-000000?style=flat-square&logo=anthropic&logoColor=white) 
-![MCP](https://img.shields.io/badge/-MCP-FF6B6B?style=flat-square&logo=protocol&logoColor=white)
+<h2 align="left">Hi 👋! My name is Acxtrilla</h2>
 
-</p>
+###
 
----
+<img align="right" height="300" src="https://cdn.rafled.com/anime-icons/images/nQIcO4hRc19txLxXn4BJVdv1lRH5PY8t.jpg"  />
 
-<details>
-  <summary>📊 GitHub Stats</summary>
-  <br/>
+###
 
-  ### Profile Summary
-  ![Profile Summary](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xatrilla&theme=rose_pine)
-  <br/><br/>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="30" alt="nixos logo"  />
+</div>
 
-  ### Languages Across Repos
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xatrilla&layout=compact&theme=rose_pine)
+###
 
-  ### Contribution Graph
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=0xatrilla&theme=dracula&hide_border=true&area=true" alt="Contribution Graph" />
-
-</details>
-
----
-
-<details>
-  <summary>🌐 Connect with me</summary>
-  <br/>
-  <a href="https://x.com/acxtrila">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
- 
-  <a href="https://bsky.app/profile/acxtrilla.xyz">
-    <img src="https://img.shields.io/badge/Bluesky-0285FF?logo=bluesky&logoColor=fff&style=for-the-badge" alt="Bluesky" />
+<div align="left">
+  <a href="acxtrilla" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
   </a>
-</details>
-
-
-
----
-
-<details>
-  <summary>☕ Support</summary>
-  <br/>
-  <a href="https://www.buymeacoffee.com/acxtrilla" target="_blank">
-    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-blue.png" alt="Buy Me A Coffee" height="40" />
+  <a href="https://x.com/acxtrila" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <br/><br/>
-  <a href="https://ko-fi.com/S6S71JSYII">
-    <img src="https://ko-fi.com/img/githubbutton_sm.svg" alt="ko-fi" />
+</div>
+
+###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/acxtrills">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=acxtrills&count=5&unique=false" alt="Spotify recently played"  />
   </a>
-</details>
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
+###
+
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouz/maurodesouz/output/snake.svg" alt="Snake animation" />
+
+###
