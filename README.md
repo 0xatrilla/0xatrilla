@@ -4,10 +4,6 @@
 
 ###
 
-<h2 align="left">Hi 👋! My name is Acxtrilla</h2>
-
-###
-
 <img align="right" height="300" src="https://cdn.rafled.com/anime-icons/images/nQIcO4hRc19txLxXn4BJVdv1lRH5PY8t.jpg"  />
 
 ###
