@@ -26,7 +26,4 @@
 </div>
 
 ###
-
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31me3uxaplxjocahw5krbi6hgxae)
-
-###
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xatrilla&layout=compact&theme=tokyonight)
