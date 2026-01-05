@@ -1,18 +1,6 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=tokyonight"  />
-</div>
 
-###
+<img width="1000" height="1080" alt="wallhaven-jxp1wq" src="https://github.com/user-attachments/assets/93fed3d2-b98b-4f8a-af75-b300ab08281e" />
 
-<img align="right" height="300" src="https://cdn.rafled.com/anime-icons/images/nQIcO4hRc19txLxXn4BJVdv1lRH5PY8t.jpg"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nixos/nixos-original.svg" height="30" alt="nixos logo"  />
-</div>
 
 ###
 
@@ -22,5 +10,3 @@
   </a>
 </div>
 
-###
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xatrilla&layout=compact&theme=tokyonight)
